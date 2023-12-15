@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Обучение\HW(teacher)\numberAmstr\numberAmstr\numberAmstr\obj\Debug\numberAmstr.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение\HW(teacher)\numberAmstr\numberAmstr\numberAmstr\obj\Debug\numberAmstr.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение\HW(teacher)\numberAmstr\numberAmstr\numberAmstr\bin\Debug\numberAmstr.exe.config
+C:\Users\admin\Desktop\Обучение\HW(teacher)\numberAmstr\numberAmstr\numberAmstr\bin\Debug\numberAmstr.exe
+C:\Users\admin\Desktop\Обучение\HW(teacher)\numberAmstr\numberAmstr\numberAmstr\bin\Debug\numberAmstr.pdb
+C:\Users\admin\Desktop\Обучение\HW(teacher)\numberAmstr\numberAmstr\numberAmstr\obj\Debug\numberAmstr.exe
+C:\Users\admin\Desktop\Обучение\HW(teacher)\numberAmstr\numberAmstr\numberAmstr\obj\Debug\numberAmstr.pdb
